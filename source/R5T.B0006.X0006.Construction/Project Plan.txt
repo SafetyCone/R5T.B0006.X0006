@@ -1,0 +1,3 @@
+R5T.B0006.X0006.Construction - Construction project for Add-simple extensions for ISyntaxOperator..
+
+GOALS:
