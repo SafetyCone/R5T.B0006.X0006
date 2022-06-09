@@ -1,3 +1,7 @@
 R5T.B0006.X0006 - Add-simple extensions for ISyntaxOperator.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.B0006 - Generators and operators for Roslyn syntax types.
+* R5T.F0009 - Add-simple functionality for Roslyn syntax values.
